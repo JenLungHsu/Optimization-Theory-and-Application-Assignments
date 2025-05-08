@@ -4,7 +4,7 @@
 
 This repository contains all the assignments for the **Optimization Theory and Application** course. It includes:
 - Three homework assignments (HW1 ~ HW3)
-- Detailed solution reports for each assignment
+- My solution reports for each assignment
 
 ---
 
